@@ -46,7 +46,8 @@ let \u005f=" Unicode escape sequence _"; // Valid identifier
     // screaming_snake_case (not standard for JS but used in other languages)
     const MY_VARIABLE = screaming; // Valid identifier
     const TOTAL_AMOUNT = 99.99; // Valid identifier
-    const API_KEY = "abc123"
+    const API_KEY = "abc123"; // Valid identifier
+    
 
 
 

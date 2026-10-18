@@ -1,7 +1,7 @@
 let a, b, c
 a = 2
-b = 1
-c = 5
+b = 2
+c = 2
 if (a + b > c || b + c > a || a + c > b) {
     if (a == b && b == c) {
         console.log("equilateral triangle")

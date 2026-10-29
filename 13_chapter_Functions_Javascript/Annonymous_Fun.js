@@ -4,7 +4,7 @@
     console.log("IIFE Executed");
 })();
 
-// USE ARROW FUNCTION ALSO
+// USE ARROW FUNCTION ALSO 
 (() => {
     console.log("Arrow IIFE Executed");
 })();
